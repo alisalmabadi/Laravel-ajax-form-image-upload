@@ -13,7 +13,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
-//Auth::routes();
+Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/image/add',['uses'=>'ProductController@add','as'=>'product-add']);
 Route::post('/image/add',['uses'=>'ProductController@show',
