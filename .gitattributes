@@ -1,2 +1,6 @@
 * linguist-vendored
+<<<<<<< HEAD
 *.php linguist-vendored=false
+=======
+*.php linguist-vendored=false
+>>>>>>> 63ef66aeec60af306ffeffde9fcda6dbeecf7a0d
