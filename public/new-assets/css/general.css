@@ -1,0 +1,61 @@
+/** Fonts **/
+
+@font-face {
+    font-family: 'BYekan';
+    src: url('../fonts/BYekan.eot');
+    src: url('../fonts/BYekan.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/BYekan.woff') format('woff'),
+    url('../fonts/BYekan.ttf') format('truetype');
+}
+
+@font-face {
+    font-family:"IRANSansWeb_Medium";
+    src: url( "../fonts/IRANSansWeb_Medium.eot" );
+    src: local( "☺" ),
+    url( "../fonts/IRANSansWeb_Medium.woff" )
+    format( "woff" ),
+    url( "../fonts/IRANSansWeb_Medium.ttf" )
+    format( "truetype" );
+}
+
+
+@font-face {
+    font-family:"IRANSansWeb_Light";
+    font-weight:normal;
+    src: url( "../fonts/IRANSansWeb_Light.eot" );
+    src: local( "☺" ),
+    url( "../fonts/IRANSansWeb_Light.woff" )
+    format( "woff" ),
+    url( "../fonts/IRANSansWeb_Light.ttf" )
+    format( "truetype" );
+}
+
+@font-face {
+    font-family:"fontawesome-webfont";
+    font-weight:normal;
+    src: url( "../fonts/fontawesome-webfont.eot" );
+    src: local( "☺" ),
+    url( "../fonts/fontawesome-webfont.woff" )
+    format( "woff" ),
+    url( "../fonts/fontawesome-webfont.ttf" )
+    format( "truetype" );
+}
+/** Tags **/
+
+body {
+    font-family: "IRANSansWeb_Medium", Tahoma, sans-serif;
+    font-size: 12px;
+    direction: rtl;
+    text-align: right;
+    min-width: 320px;
+}
+
+a {
+    color: rgb(190, 84, 84);
+    transition: .3s;
+    text-decoration: none;
+}
+
+a:hover {
+}
+
