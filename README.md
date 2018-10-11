@@ -34,12 +34,12 @@ A step by step series of examples that tell you how to get a development env run
 ```
 
 ```
-3- php artisan migrate<br>
+3- php artisan migrate
 
 ```
 
 ```
-4- php artisan serve<br>
+4- php artisan serve
 
 ```
 
@@ -48,7 +48,7 @@ Finished! thats it!
 # Built With
 
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
 * [Bootstrap](https://github.com/twbs/bootstrap) - Bootstrap Used for UI
 
 * [LARAVEL](https://github.com/laravel/laravel) - Laravel Used for opprating project
