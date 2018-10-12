@@ -47,7 +47,7 @@ Finished! thats it!
 
 # Built With
 
-* [Maven](https://maven.apache.org/) - Dependency Management
+* [JQUERY](https://github.com/jquery/jquery) - Used to send ajax request
 
 * [Bootstrap](https://github.com/twbs/bootstrap) - Bootstrap Used for UI
 
@@ -57,9 +57,5 @@ Finished! thats it!
 ## Authors
 
 * **Seyyed Ali Salmabadi** - *Initial work* - [Seyyed Ali](https://github.com/salis77/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
